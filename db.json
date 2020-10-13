@@ -9,7 +9,7 @@
         "value": [
           {
             "op": "add",
-            "path": "/claims/AppClaim",
+            "path": "/claims/oidc_client_dua9375.AppClaim",
             "value": "TestClaim"
           }
         ]
