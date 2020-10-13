@@ -1,15 +1,17 @@
 {
-  "commands": [
-    {
-      "id":"1",
-      "type": "com.okta.access.patch",
-      "value": [
-        {
-          "op": "add",
-          "path": "/claims/AppClaim",
-          "value": "TestClaim"
-        }
-      ]
-    }
-  ]
+  {
+    "commands": [
+      {
+        "id":"1",
+        "type": "com.okta.access.patch",
+        "value": [
+          {
+            "op": "add",
+            "path": "/claims/AppClaim",
+            "value": "TestClaim"
+          }
+        ]
+      }
+    ]
+  }
 }
