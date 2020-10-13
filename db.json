@@ -1,19 +1,15 @@
 {
     "commands": [
-      {
-      	"commands": [
-      	  {
+        {
         "id":"1",
         "type": "com.okta.access.patch",
         "value": [
-          {
+            {
             "op": "add",
             "path": "/claims/oidc_client_dua9375.AppClaim",
             "value": "TestClaim"
-          }
+            }
         ]
-      }
+        }
     ]
-  }
- ]
 }
